@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @FinnTheBin21 I am in my second year of Software systems development, I also study Physics and Maths
+- 👋 Hi, I’m @FinnTheBin21 I am in my second year of Software systems development at A level
+-, I also study Physics and Maths
 - 👀 I’m interested in cyber security, game design and database management
 - 🌱 I’m currently learning  c#, java and sql database management
 - 💞️ I’m looking to collaborate on an easy c# project
